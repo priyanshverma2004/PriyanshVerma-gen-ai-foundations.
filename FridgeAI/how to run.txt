@@ -1,0 +1,16 @@
+terminal 1
+
+run -> venv/scripts/activate
+
+run-> cd backend 
+run -> uvicorn app:app --reload 
+
+
+terminal 2
+
+run -> venv/scripts/activate
+
+run -> npm run dev 
+
+
+ye "run ->" bad vala run karna  
